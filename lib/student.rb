@@ -20,6 +20,7 @@ end
 #inheriting is not the same as has many relationship
 #inheriting isn't a relationship
 #parent to child "but not an Association"
+#relationships
 #one to one - has one, one would have it, belongs to.
 #one to many - one has many and one belongs to.
 #many to many - join table, like has many through a join table.
