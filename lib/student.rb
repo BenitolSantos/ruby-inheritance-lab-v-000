@@ -15,3 +15,9 @@ class Student < User
   #not needed but we already have the attr_accessor
 
 end
+
+
+#inheriting is not the same as has many relationship
+#one to one - has one, one would have it, belongs to.
+#one to many - one has many and one belongs to.
+#many to many - join table, like has many through a join table.
